@@ -1,0 +1,7 @@
+[
+    { 
+    	"id": "onelinejsonmenu",
+    	"command": "one_line_json",
+    	"caption": "Format: JSON-oneline"
+    }
+]

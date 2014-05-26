@@ -32,5 +32,6 @@ to
 because it's so simple so i have not submit it to package control, you can install with following
 
 1. Click the Preferences > Browse Packages… menu
-2. copy it to the Packages floder
+2. create a new floder named "OneLineJSON" or anything you like in the Packages floder
+3. copy all files to the floder you created
 
